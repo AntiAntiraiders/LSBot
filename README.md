@@ -1,2 +1,2 @@
-# LSBot
-My commands
+# LS
+Un proyecto que pronto será terminado.
